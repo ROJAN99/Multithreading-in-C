@@ -1,0 +1,305 @@
+Sum for thread 0 is 10000100000
+Child start=: 1
+Child End=: 100000
+Sum for thread 1 is 40000200000
+Child start=: 100001
+Child End=: 200000
+Sum for thread 2 is 90000300000
+Child start=: 200001
+Child End=: 300000
+Sum for thread 3 is 160000400000
+Child start=: 300001
+Child End=: 400000
+Sum for thread 4 is 250000500000
+Child start=: 400001
+Child End=: 500000
+Sum for thread 5 is 360000600000
+Child start=: 500001
+Child End=: 600000
+Sum for thread 6 is 490000700000
+Child start=: 600001
+Child End=: 700000
+Sum for thread 7 is 640000800000
+Child start=: 700001
+Child End=: 800000
+Sum for thread 8 is 810000900000
+Child start=: 800001
+Child End=: 900000
+Sum for thread 9 is 1000001000000
+Child start=: 900001
+Child End=: 1000000
+Total Sum is 1000001000000
+d 9 is 10000100000
+GrandChild start=: 90001
+GrandChild End=: 100000
+Sum for thread 10 is 12100110000
+GrandChild start=: 100001
+GrandChild End=: 110000
+Sum for thread 11 is 14400120000
+GrandChild start=: 110001
+GrandChild End=: 120000
+Sum for thread 12 is 16900130000
+GrandChild start=: 120001
+GrandChild End=: 130000
+Sum for thread 13 is 19600140000
+GrandChild start=: 130001
+GrandChild End=: 140000
+Sum for thread 14 is 22500150000
+GrandChild start=: 140001
+GrandChild End=: 150000
+Sum for thread 15 is 25600160000
+GrandChild start=: 150001
+GrandChild End=: 160000
+Sum for thread 16 is 28900170000
+GrandChild start=: 160001
+GrandChild End=: 170000
+Sum for thread 17 is 32400180000
+GrandChild start=: 170001
+GrandChild End=: 180000
+Sum for thread 18 is 36100190000
+GrandChild start=: 180001
+GrandChild End=: 190000
+Sum for thread 19 is 40000200000
+GrandChild start=: 190001
+GrandChild End=: 200000
+Sum for thread 20 is 44100210000
+GrandChild start=: 200001
+GrandChild End=: 210000
+Sum for thread 21 is 48400220000
+GrandChild start=: 210001
+GrandChild End=: 220000
+Sum for thread 22 is 52900230000
+GrandChild start=: 220001
+GrandChild End=: 230000
+Sum for thread 23 is 57600240000
+GrandChild start=: 230001
+GrandChild End=: 240000
+Sum for thread 24 is 62500250000
+GrandChild start=: 240001
+GrandChild End=: 250000
+Sum for thread 25 is 67600260000
+GrandChild start=: 250001
+GrandChild End=: 260000
+Sum for thread 26 is 72900270000
+GrandChild start=: 260001
+GrandChild End=: 270000
+Sum for thread 27 is 78400280000
+GrandChild start=: 270001
+GrandChild End=: 280000
+Sum for thread 28 is 84100290000
+GrandChild start=: 280001
+GrandChild End=: 290000
+Sum for thread 29 is 90000300000
+GrandChild start=: 290001
+GrandChild End=: 300000
+Sum for thread 30 is 96100310000
+GrandChild start=: 300001
+GrandChild End=: 310000
+Sum for thread 31 is 102400320000
+GrandChild start=: 310001
+GrandChild End=: 320000
+Sum for thread 32 is 108900330000
+GrandChild start=: 320001
+GrandChild End=: 330000
+Sum for thread 33 is 115600340000
+GrandChild start=: 330001
+GrandChild End=: 340000
+Sum for thread 34 is 122500350000
+GrandChild start=: 340001
+GrandChild End=: 350000
+Sum for thread 35 is 129600360000
+GrandChild start=: 350001
+GrandChild End=: 360000
+Sum for thread 36 is 136900370000
+GrandChild start=: 360001
+GrandChild End=: 370000
+Sum for thread 37 is 144400380000
+GrandChild start=: 370001
+GrandChild End=: 380000
+Sum for thread 38 is 152100390000
+GrandChild start=: 380001
+GrandChild End=: 390000
+Sum for thread 39 is 160000400000
+GrandChild start=: 390001
+GrandChild End=: 400000
+Sum for thread 40 is 168100410000
+GrandChild start=: 400001
+GrandChild End=: 410000
+Sum for thread 41 is 176400420000
+GrandChild start=: 410001
+GrandChild End=: 420000
+Sum for thread 42 is 184900430000
+GrandChild start=: 420001
+GrandChild End=: 430000
+Sum for thread 43 is 193600440000
+GrandChild start=: 430001
+GrandChild End=: 440000
+Sum for thread 44 is 202500450000
+GrandChild start=: 440001
+GrandChild End=: 450000
+Sum for thread 45 is 211600460000
+GrandChild start=: 450001
+GrandChild End=: 460000
+Sum for thread 46 is 220900470000
+GrandChild start=: 460001
+GrandChild End=: 470000
+Sum for thread 47 is 230400480000
+GrandChild start=: 470001
+GrandChild End=: 480000
+Sum for thread 48 is 240100490000
+GrandChild start=: 480001
+GrandChild End=: 490000
+Sum for thread 49 is 250000500000
+GrandChild start=: 490001
+GrandChild End=: 500000
+Sum for thread 50 is 260100510000
+GrandChild start=: 500001
+GrandChild End=: 510000
+Sum for thread 51 is 270400520000
+GrandChild start=: 510001
+GrandChild End=: 520000
+Sum for thread 52 is 280900530000
+GrandChild start=: 520001
+GrandChild End=: 530000
+Sum for thread 53 is 291600540000
+GrandChild start=: 530001
+GrandChild End=: 540000
+Sum for thread 54 is 302500550000
+GrandChild start=: 540001
+GrandChild End=: 550000
+Sum for thread 55 is 313600560000
+GrandChild start=: 550001
+GrandChild End=: 560000
+Sum for thread 56 is 324900570000
+GrandChild start=: 560001
+GrandChild End=: 570000
+Sum for thread 57 is 336400580000
+GrandChild start=: 570001
+GrandChild End=: 580000
+Sum for thread 58 is 348100590000
+GrandChild start=: 580001
+GrandChild End=: 590000
+Sum for thread 59 is 360000600000
+GrandChild start=: 590001
+GrandChild End=: 600000
+Sum for thread 60 is 372100610000
+GrandChild start=: 600001
+GrandChild End=: 610000
+Sum for thread 61 is 384400620000
+GrandChild start=: 610001
+GrandChild End=: 620000
+Sum for thread 62 is 396900630000
+GrandChild start=: 620001
+GrandChild End=: 630000
+Sum for thread 63 is 409600640000
+GrandChild start=: 630001
+GrandChild End=: 640000
+Sum for thread 64 is 422500650000
+GrandChild start=: 640001
+GrandChild End=: 650000
+Sum for thread 65 is 435600660000
+GrandChild start=: 650001
+GrandChild End=: 660000
+Sum for thread 66 is 448900670000
+GrandChild start=: 660001
+GrandChild End=: 670000
+Sum for thread 67 is 462400680000
+GrandChild start=: 670001
+GrandChild End=: 680000
+Sum for thread 68 is 476100690000
+GrandChild start=: 680001
+GrandChild End=: 690000
+Sum for thread 69 is 490000700000
+GrandChild start=: 690001
+GrandChild End=: 700000
+Sum for thread 70 is 504100710000
+GrandChild start=: 700001
+GrandChild End=: 710000
+Sum for thread 71 is 518400720000
+GrandChild start=: 710001
+GrandChild End=: 720000
+Sum for thread 72 is 532900730000
+GrandChild start=: 720001
+GrandChild End=: 730000
+Sum for thread 73 is 547600740000
+GrandChild start=: 730001
+GrandChild End=: 740000
+Sum for thread 74 is 562500750000
+GrandChild start=: 740001
+GrandChild End=: 750000
+Sum for thread 75 is 577600760000
+GrandChild start=: 750001
+GrandChild End=: 760000
+Sum for thread 76 is 592900770000
+GrandChild start=: 760001
+GrandChild End=: 770000
+Sum for thread 77 is 608400780000
+GrandChild start=: 770001
+GrandChild End=: 780000
+Sum for thread 78 is 624100790000
+GrandChild start=: 780001
+GrandChild End=: 790000
+Sum for thread 79 is 640000800000
+GrandChild start=: 790001
+GrandChild End=: 800000
+Sum for thread 80 is 656100810000
+GrandChild start=: 800001
+GrandChild End=: 810000
+Sum for thread 81 is 672400820000
+GrandChild start=: 810001
+GrandChild End=: 820000
+Sum for thread 82 is 688900830000
+GrandChild start=: 820001
+GrandChild End=: 830000
+Sum for thread 83 is 705600840000
+GrandChild start=: 830001
+GrandChild End=: 840000
+Sum for thread 84 is 722500850000
+GrandChild start=: 840001
+GrandChild End=: 850000
+Sum for thread 85 is 739600860000
+GrandChild start=: 850001
+GrandChild End=: 860000
+Sum for thread 86 is 756900870000
+GrandChild start=: 860001
+GrandChild End=: 870000
+Sum for thread 87 is 774400880000
+GrandChild start=: 870001
+GrandChild End=: 880000
+Sum for thread 88 is 792100890000
+GrandChild start=: 880001
+GrandChild End=: 890000
+Sum for thread 89 is 810000900000
+GrandChild start=: 890001
+GrandChild End=: 900000
+Sum for thread 90 is 828100910000
+GrandChild start=: 900001
+GrandChild End=: 910000
+Sum for thread 91 is 846400920000
+GrandChild start=: 910001
+GrandChild End=: 920000
+Sum for thread 92 is 864900930000
+GrandChild start=: 920001
+GrandChild End=: 930000
+Sum for thread 93 is 883600940000
+GrandChild start=: 930001
+GrandChild End=: 940000
+Sum for thread 94 is 902500950000
+GrandChild start=: 940001
+GrandChild End=: 950000
+Sum for thread 95 is 921600960000
+GrandChild start=: 950001
+GrandChild End=: 960000
+Sum for thread 96 is 940900970000
+GrandChild start=: 960001
+GrandChild End=: 970000
+Sum for thread 97 is 960400980000
+GrandChild start=: 970001
+GrandChild End=: 980000
+Sum for thread 98 is 980100990000
+GrandChild start=: 980001
+GrandChild End=: 990000
+Sum for thread 99 is 1000001000000
+GrandChild start=: 990001
+GrandChild End=: 1000000
+Total Sum is 1000001000000
