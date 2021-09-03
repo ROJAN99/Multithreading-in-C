@@ -12,7 +12,7 @@
 #define SIZ 128
 
 
-long int sum=1; /* this data is shared by the thread(s)*/
+long int sum=0; /* this data is shared by the thread(s)*/
 long int test=1;
 
 void *runner(void *param);/*threads call this function*/
